@@ -1,0 +1,7 @@
+{
+  "name": "산들강 웅포마을 - Sandeulgang Ungpo",
+  "description": "익산 웅포마을의 아름다운 자연과 편안한 숙박, 다채로운 체험을 예약할 수 있는 힐링 여행 플랫폼입니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
